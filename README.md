@@ -1,2 +1,1 @@
-# SysProg
-System Programming Project
+# System Programming Project
