@@ -1,0 +1,1 @@
+cmd_/home/zhalgas/System_programming/Project1/ProcessList/project.ko := ld -r -m elf_x86_64 -z max-page-size=0x200000 -T ./scripts/module-common.lds --build-id  -o /home/zhalgas/System_programming/Project1/ProcessList/project.ko /home/zhalgas/System_programming/Project1/ProcessList/project.o /home/zhalgas/System_programming/Project1/ProcessList/project.mod.o ;  true
